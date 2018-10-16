@@ -1,0 +1,2 @@
+#define BACKLIGHT_ENABLED 'yes'
+#define BACKLIGHT_LEVELS 3
